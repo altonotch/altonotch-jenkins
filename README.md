@@ -1,5 +1,5 @@
 # altonotch-jenkins
-Customize your Jenkins installation with a sleek and elegant theme, brought to you by [Altonotch](https:altonotch.com).
+Customize your Jenkins installation with a sleek and elegant theme, brought to you by [Altonotch](https://altonotch.com).
 
 ## Features
 One minified CSS file. The other un-minified file is so that you can contribute :)
